@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#API Keys
+config.py
+
+#Desktop Services Store 
+.DS_Store
+
+desktop.ini
